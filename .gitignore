@@ -1,2 +1,6 @@
-/input/*
+input/*
 /.idea/*
+doc/*
+src/catboost_info/*
+src/__pycache__/*
+.ipynb_checkpoints/
